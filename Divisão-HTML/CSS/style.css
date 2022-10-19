@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body {background-color: rgb(195, 231, 184);
+font-size: px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {color: black;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 5px;
+
+}
+
+#principal {background-color: rgb(15, 15, 15);
+    width: 1200px;
+}
+
+    
+header {background-color: rgb(161, 35, 161);
+    height: 100px;
+}
+header h1{padding-left :10px;}
+nav {
+    background-color: rgb(174, 201, 25);
+    margin-right: 10px
+}
+
+.delado {
+    display: flex;
+}
+
+section {
+    background-color:  rgb(230, 48, 16);
+    width: 780px; 
+    margin: 10px; 
+    height: 500px;
+    padding-left :10px;}
+    
+
+article {
+ 
+    background-color: rgb(255, 115, 0);
+    margin: 20px; 
+    height: 120px;
+    padding-left :20px;
+}
+
+aside {
+    background-color: rgb(251, 255, 0);
+   width: 340px; height: 500px; 
+    margin: 10px;
+    padding-left :20px
+
+
+}
+
+
+footer {
+    background-color: rgb(185, 176, 49);
+    height: 80px;
+}
+
+
+.ed{color: blue;}
+    
